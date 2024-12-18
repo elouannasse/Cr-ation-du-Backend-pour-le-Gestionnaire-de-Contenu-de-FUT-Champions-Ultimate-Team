@@ -117,6 +117,7 @@ $positions = mysqli_query($conn, "SELECT * FROM positions ORDER BY name_position
             background: #f8d7da;
             color: #721c24;
             border: 1px solid #f5c6cb;
+            
         }
         .hidden {
             display: none;
